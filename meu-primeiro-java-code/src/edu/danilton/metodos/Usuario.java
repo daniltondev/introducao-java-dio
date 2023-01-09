@@ -17,7 +17,7 @@ public class Usuario {
 
         //Aumentar volume e exibir
         smartTv.aumentarVolume();
-        System.out.println("VOLUME: " + smartTv.volume);
+        System.out.println("VOLUM,E: " + smartTv.volume);
         
         //diminuir volume e exibir
         smartTv.diminuirVolume();
